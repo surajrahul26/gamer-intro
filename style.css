@@ -1,0 +1,199 @@
+body {
+  background-color: #ffcbcb;
+  margin: 0 auto 0 auto;
+}
+h1 {
+  margin-top: 0;
+  font-family: "Pacifico", cursive;
+  font-size: 40px;
+}
+p {
+  font-family: "Audiowide", cursive;
+  font-size: 25px;
+  line-height: 1.5;
+}
+.blessed {
+  background-color: #bad7e9;
+  height: 20%;
+  width: 30%;
+  padding: 10%;
+  border-radius: 20%;
+  margin-top: 70px;
+  margin-left: 180px;
+  border-style: solid;
+  border-color: steelblue;
+  border-width: 4px;
+}
+.gamer {
+  height: 162px;
+  width: 196px;
+  background-color: #d27685;
+  padding: 6px;
+  position: relative;
+  left: 338px;
+  bottom: 125px;
+  border-radius: 30%;
+  border-width: 3px;
+}
+.nova {
+  height: 198px;
+  width: 198px;
+  position: absolute;
+  top: 25px;
+  left: 24px;
+  background-color: #ffcbcb;
+  border-radius: 50%;
+  padding: 4px;
+}
+
+.anime {
+  height: 35%;
+  width: 35%;
+}
+.ssv {
+  margin-top: -50px;
+  margin-bottom: 60px;
+  border: dotted #d27685 5px;
+  border-bottom: none;
+  width: 9%;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: "Pacifico", cursive;
+  font-size: 40px;
+  color: steelblue;
+}
+
+h3 {
+  margin-top: 0;
+  font-family: "Pacifico", cursive;
+  font-size: 30px;
+  color: steelblue;
+}
+.bio {
+  font-family: "Itim", cursive;
+  width: 95%;
+}
+.sv {
+  margin-top: 40px;
+  margin-bottom: 60px;
+  border: dotted #d27685 5px;
+  border-bottom: none;
+  width: 9%;
+}
+
+.skill-row {
+  width: 90%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.ss {
+  width: 30%;
+  height: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.technical {
+  width: 30%;
+  height: 30%;
+  float: right;
+  margin-right: 30px;
+}
+.leader {
+  width: 30%;
+  height: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.testbutton {
+  font-family: "times new roman";
+  font-weight: bold;
+  color: #f9f6ee;
+  font-size: 14px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #f9f6ee;
+  box-shadow: 2px 2px 4px #ffbaba;
+  padding: 10px 25px;
+  border-radius: 9px;
+  border: 1px solid #ffbaba;
+  background: #d27685;
+  background: linear-gradient(to top, #d27685, #ffbaba);
+}
+.testbutton:hover {
+  color: #eaf6f6;
+  background: #b2beb5;
+}
+
+.bottom-container {
+  background: #ffacac;
+  margin-top: 15%;
+  padding: 50px 0 10px;
+}
+
+.footer {
+  font-family: "Itim", cursive;
+  font-size: 70%;
+  color: #fcf5e5;
+  text-align: center;
+  padding: 30px 0px;
+}
+.footer-link {
+  font-family: "itim", cursive;
+  text-decoration: none;
+  margin: 10px 20px;
+  font-size: 132%;
+  color: #d27685;
+}
+
+.footer-link:hover {
+  color: #eaf6f6;
+}
+
+body {
+  background-color: #ffcbcb;
+  margin: 0 auto 0 auto;
+}
+h1 {
+  margin-top: 0;
+  font-family: "Pacifico", cursive;
+  font-size: 40px;
+}
+p {
+  font-family: "Audiowide", cursive;
+  font-size: 25px;
+}
+.blessed {
+  background-color: #bad7e9;
+  height: 20%;
+  width: 30%;
+  padding: 10%;
+  border-radius: 20%;
+  margin-top: 70px;
+  margin-left: 180px;
+  border-style: solid;
+  border-color: steelblue;
+  border-width: 4px;
+}
+.gamer {
+  height: 162px;
+  width: 196px;
+  background-color: #d27685;
+  padding: 6px;
+  position: relative;
+  left: 338px;
+  bottom: 125px;
+  border-radius: 30%;
+  border-width: 3px;
+}
+.nova {
+  height: 198px;
+  width: 198px;
+  position: absolute;
+  top: 25px;
+  left: 24px;
+  background-color: #ffcbcb;
+  border-radius: 50%;
+  padding: 4px;
+}
